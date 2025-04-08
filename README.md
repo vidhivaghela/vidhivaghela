@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Vidhi Vaghela <br><br>- 🔭 I’m working as MERN Stack Developer<br>- 📚 I'm currently learning MongoDB, ExpressJS, React, NodeJS<br>- ⚡ In my free time I Read Books</p>
 
 ###
 
