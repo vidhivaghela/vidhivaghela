@@ -76,3 +76,10 @@
 
 
 <p> <a href="https://buymeacoffee.com/vids16" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhivaghela&show_icons=true&locale=en&layout=compact" alt="vidhivaghela" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhivaghela&show_icons=true&locale=en" alt="vidhivaghela" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhivaghela&" alt="vidhivaghela" /></p>
+
