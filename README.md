@@ -67,12 +67,7 @@
 -->
 
 
-<!-- [![Omi-Patel's GitHub | Stats](https://stats.quine.sh/Omi-Patel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Omi-Patel)
-<br>
-<br>
-[![Omi-Patel's GitHub | Languages Over Time](https://stats.quine.sh/Omi-Patel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Omi-Patel) -->
 
-<!-- ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  -->
 
 
 <p> <a href="https://buymeacoffee.com/vids16" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/> </a> </p>
