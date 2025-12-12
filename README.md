@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/vidhiii1698" target="blank"><img src="https://img.shields.io/twitter/follow/vidhiii1698?logo=twitter&style=for-the-badge" alt="vidhiii1698" /></a> </p>
 
-- 🔭 I’m currently working on **Healthcare Management System**
-
 - 🌱 I’m currently learning **React, Tailwind CSS**
 
 - 📫 How to reach me **vidhivaghela1693@gmail.com**
