@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Vidhi K. Vaghela</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate UI developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vidhiii1698" target="blank"><img src="https://img.shields.io/twitter/follow/vidhiii1698?logo=twitter&style=for-the-badge" alt="vidhiii1698" /></a> </p>
 
